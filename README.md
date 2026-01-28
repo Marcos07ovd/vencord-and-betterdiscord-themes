@@ -5,7 +5,7 @@
 - Solo uso ese como base
 - Mantengo links originales y menciono el tema original
 
-### Vista previa -> [https://github.com/Marcos07ovd/vencord-and-betterdiscord-themes.wiki.git](https://github.com/Marcos07ovd/vencord-and-betterdiscord-themes/wiki)
+### Vista previa en la WIKI
 
 ===========================================================================
 
@@ -16,4 +16,4 @@
 - I'm just using it as a base
 - I'm keeping the original links and mentioning the original theme
 
-### Preview -> [https://github.com/Marcos07ovd/vencord-and-betterdiscord-themes.wiki.git](https://github.com/Marcos07ovd/vencord-and-betterdiscord-themes/wiki)
+### Preview in the WIKI
